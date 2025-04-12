@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Awesomeorion!
 > ### ✨ Welcome to my GitHub profile! ✨ Here's a little bit about me:
   - I am a novice programmer. Just started a little less than a year ago
-  - I first started to be interested in programming on https://khanacademy.org/computing
+  - I first started programming on https://khanacademy.org/computing
 
 > ### 🌱 What I’m currently learning:
 - Deepening my knowledge of **PHP** and **C++**.
